@@ -1,4 +1,5 @@
-Netflix-Database-Management-System
+𝗡𝗲𝘁𝗳𝗹𝗶𝘅-𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲-𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁-𝗦𝘆𝘀𝘁𝗲𝗺
+
 The objective of this project is to analyze the customer database & help Netflix make business decisions and Improve is Operations.
 
 Dataset
